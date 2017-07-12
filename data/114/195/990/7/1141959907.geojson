@@ -1,0 +1,58 @@
+{
+  "id": 1141959907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.570715904,25.0273908986,121.570715904,25.0273908986",
+    "geom:latitude":25.027391,
+    "geom:longitude":121.570716,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Xiangshan Trail"
+    ],
+    "wof:belongsto":[
+        85923811,
+        102191569,
+        85632403,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1499827243,
+    "wof:geomhash":"5c95656fcf485d4da5057596258baef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "neighbourhood_id":85923811,
+            "region_id":85679583,
+            "venue_id":1141959907
+        }
+    ],
+    "wof:id":1141959907,
+    "wof:lastmodified":1499827243,
+    "wof:name":"Xiangshan Trail",
+    "wof:parent_id":85923811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elephant",
+        "vistas"
+    ]
+},
+  "bbox": [
+    121.57071590424,
+    25.02739089863,
+    121.57071590424,
+    25.02739089863
+],
+  "geometry": {"coordinates":[121.57071590424,25.02739089863],"type":"Point"}
+}

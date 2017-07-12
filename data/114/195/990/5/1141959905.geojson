@@ -1,0 +1,55 @@
+{
+  "id": 1141959905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.565458775,25.039610164,121.565458775,25.039610164",
+    "geom:latitude":25.03961,
+    "geom:longitude":121.565459,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Minder Vegetarian"
+    ],
+    "wof:belongsto":[
+        85923949,
+        102191569,
+        85632403,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1499827159,
+    "wof:geomhash":"d022dba11daf19aed6c4a36119c2601a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "neighbourhood_id":85923949,
+            "region_id":85679583,
+            "venue_id":1141959905
+        }
+    ],
+    "wof:id":1141959905,
+    "wof:lastmodified":1499827159,
+    "wof:name":"Minder Vegetarian",
+    "wof:parent_id":85923949,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56545877457,
+    25.039610164022,
+    121.56545877457,
+    25.039610164022
+],
+  "geometry": {"coordinates":[121.56545877457,25.039610164022],"type":"Point"}
+}
