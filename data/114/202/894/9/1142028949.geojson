@@ -9,7 +9,7 @@
     "geom:bbox":"121.459463889,25.1427944444,121.459463889,25.1427944444",
     "geom:latitude":25.142794,
     "geom:longitude":121.459464,
-    "iso:country":"KR",
+    "iso:country":"TW",
     "mz:hierarchy_label":1,
     "name:eng_x_preferred":[
         "Bamboo Curtain Studio"
@@ -24,7 +24,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{},
-    "wof:country":"KR",
+    "wof:country":"TW",
     "wof:created":1500341987,
     "wof:geomhash":"3a113bc77bfdb47f86baed8fb0b10798",
     "wof:hierarchy":[
@@ -43,7 +43,7 @@
     "wof:name":"Bamboo Curtain Studio",
     "wof:parent_id":85926833,
     "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:repo":"whosonfirst-data-venue-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
