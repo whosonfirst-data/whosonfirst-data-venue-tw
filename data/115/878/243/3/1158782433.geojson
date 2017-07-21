@@ -1,0 +1,57 @@
+{
+  "id": 1158782433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.529120207,25.0438871054,121.529120207,25.0438871054",
+    "geom:latitude":25.043887,
+    "geom:longitude":121.52912,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Huashan 1914 Creative Park"
+    ],
+    "wof:belongsto":[
+        85923287,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1500639927,
+    "wof:geomhash":"a22e28bc5539d8a0eec9b08b0707b1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923287,
+            "region_id":85679583,
+            "venue_id":1158782433
+        }
+    ],
+    "wof:id":1158782433,
+    "wof:lastmodified":1500639927,
+    "wof:name":"Huashan 1914 Creative Park",
+    "wof:parent_id":85923287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52912020683,
+    25.043887105364,
+    121.52912020683,
+    25.043887105364
+],
+  "geometry": {"coordinates":[121.52912020683,25.043887105364],"type":"Point"}
+}

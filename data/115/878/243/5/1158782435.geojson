@@ -1,0 +1,69 @@
+{
+  "id": 1158782435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.532027721,25.0451993188,121.532027721,25.0451993188",
+    "geom:latitude":25.045199,
+    "geom:longitude":121.532028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Guang Hua Digital Plaza"
+    ],
+    "wof:belongsto":[
+        85923065,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583,
+        85923033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1500639987,
+    "wof:geomhash":"998a4ae49e24cdfa96f20be8fd13e4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923065,
+            "region_id":85679583,
+            "venue_id":1158782435
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923033,
+            "region_id":85679583,
+            "venue_id":1158782435
+        }
+    ],
+    "wof:id":1158782435,
+    "wof:lastmodified":1500639987,
+    "wof:name":"Guang Hua Digital Plaza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computers"
+    ]
+},
+  "bbox": [
+    121.53202772141,
+    25.045199318826,
+    121.53202772141,
+    25.045199318826
+],
+  "geometry": {"coordinates":[121.53202772141,25.045199318826],"type":"Point"}
+}
