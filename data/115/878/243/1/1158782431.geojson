@@ -1,0 +1,57 @@
+{
+  "id": 1158782431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.522489786,25.0451993188,121.522489786,25.0451993188",
+    "geom:latitude":25.045199,
+    "geom:longitude":121.52249,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "National Police Agency"
+    ],
+    "wof:belongsto":[
+        85923321,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TW",
+    "wof:created":1500639882,
+    "wof:geomhash":"a8c7f32161278750252a5f14a4d2960f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923321,
+            "region_id":85679583,
+            "venue_id":1158782431
+        }
+    ],
+    "wof:id":1158782431,
+    "wof:lastmodified":1500639882,
+    "wof:name":"National Police Agency",
+    "wof:parent_id":85923321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52248978615,
+    25.045199318826,
+    121.52248978615,
+    25.045199318826
+],
+  "geometry": {"coordinates":[121.52248978615,25.045199318826],"type":"Point"}
+}
