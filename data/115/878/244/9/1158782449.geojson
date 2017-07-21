@@ -1,0 +1,61 @@
+{
+  "id": 1158782449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.567153931,25.0363148734,121.567153931,25.0363148734",
+    "geom:latitude":25.036315,
+    "geom:longitude":121.567154,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "URBN Underground"
+    ],
+    "wof:belongsto":[
+        85923865,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1500640518,
+    "wof:geomhash":"0004376dcc08712e17ae3fd501ca097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923865,
+            "region_id":85679583,
+            "venue_id":1158782449
+        }
+    ],
+    "wof:id":1158782449,
+    "wof:lastmodified":1500640518,
+    "wof:name":"URBN Underground",
+    "wof:parent_id":85923865,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetarian",
+        "vegan",
+        "beer"
+    ]
+},
+  "bbox": [
+    121.56715393066,
+    25.036314873402,
+    121.56715393066,
+    25.036314873402
+],
+  "geometry": {"coordinates":[121.56715393066,25.036314873402],"type":"Point"}
+}

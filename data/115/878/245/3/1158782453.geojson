@@ -1,0 +1,57 @@
+{
+  "id": 1158782453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.567153931,25.0357024645,121.567153931,25.0357024645",
+    "geom:latitude":25.035702,
+    "geom:longitude":121.567154,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Tesla"
+    ],
+    "wof:belongsto":[
+        85923865,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1500640585,
+    "wof:geomhash":"da170f4d2d467be0c9d1591d4dc10f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923865,
+            "region_id":85679583,
+            "venue_id":1158782453
+        }
+    ],
+    "wof:id":1158782453,
+    "wof:lastmodified":1500640585,
+    "wof:name":"Tesla",
+    "wof:parent_id":85923865,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56715393066,
+    25.035702464505,
+    121.56715393066,
+    25.035702464505
+],
+  "geometry": {"coordinates":[121.56715393066,25.035702464505],"type":"Point"}
+}
