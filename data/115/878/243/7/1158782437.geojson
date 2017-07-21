@@ -1,0 +1,57 @@
+{
+  "id": 1158782437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.538196802,25.0420013814,121.538196802,25.0420013814",
+    "geom:latitude":25.042001,
+    "geom:longitude":121.538197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "National Taipei University of Technology"
+    ],
+    "wof:belongsto":[
+        102551541,
+        85923925,
+        102191569,
+        85632403,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1500640202,
+    "wof:geomhash":"a82b8dfa519ca12217b2702870ea9017",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551541,
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "neighbourhood_id":85923925,
+            "region_id":85679583,
+            "venue_id":1158782437
+        }
+    ],
+    "wof:id":1158782437,
+    "wof:lastmodified":1500640202,
+    "wof:name":"National Taipei University of Technology",
+    "wof:parent_id":102551541,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53819680214,
+    25.042001381429,
+    121.53819680214,
+    25.042001381429
+],
+  "geometry": {"coordinates":[121.53819680214001,25.042001381429],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1158782447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.562680006,25.0367814686,121.562680006,25.0367814686",
+    "geom:latitude":25.036781,
+    "geom:longitude":121.56268,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "City Hall Square"
+    ],
+    "wof:belongsto":[
+        85923865,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1500640479,
+    "wof:geomhash":"41e4e026ca8809fd43f28d93c4c65a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923865,
+            "region_id":85679583,
+            "venue_id":1158782447
+        }
+    ],
+    "wof:id":1158782447,
+    "wof:lastmodified":1500640479,
+    "wof:name":"City Hall Square",
+    "wof:parent_id":85923865,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56268000603,
+    25.036781468604,
+    121.56268000603,
+    25.036781468604
+],
+  "geometry": {"coordinates":[121.56268000603001,25.036781468604],"type":"Point"}
+}
