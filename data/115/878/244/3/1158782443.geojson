@@ -4,16 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"121.560255289,25.0394351951,121.560255289,25.0394351951",
+    "geom:area":0,
+    "geom:bbox":"121.560255,25.039435,121.560255,25.039435",
     "geom:latitude":25.039435,
     "geom:longitude":121.560255,
-    "iso:country":"",
+    "iso:country":"TW",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "Sun Yat-sen Memorial Hall"
     ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
+        "1158782443",
         85923943,
         102191569,
         85632403,
@@ -23,9 +28,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{},
-    "wof:country":"",
+    "wof:country":"TW",
     "wof:created":1500640402,
-    "wof:geomhash":"17d3686836011c86423e9b650f869026",
+    "wof:geomhash":"7100081fd6615024e405f65c3723f832",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -34,11 +39,11 @@
             "macroregion_id":1108808545,
             "neighbourhood_id":85923943,
             "region_id":85679583,
-            "venue_id":1158782443
+            "venue_id":"1158782443"
         }
     ],
     "wof:id":1158782443,
-    "wof:lastmodified":1500640402,
+    "wof:lastmodified":1501038459,
     "wof:name":"Sun Yat-sen Memorial Hall",
     "wof:parent_id":85923943,
     "wof:placetype":"venue",
@@ -53,5 +58,5 @@
     121.56025528908,
     25.039435195064
 ],
-  "geometry": {"coordinates":[121.56025528908,25.039435195064],"type":"Point"}
+  "geometry": {"coordinates":[121.560255,25.039435],"type":"Point"}
 }

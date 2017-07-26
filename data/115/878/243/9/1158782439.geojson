@@ -4,16 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"121.539065838,25.0414959247,121.539065838,25.0414959247",
+    "geom:area":0,
+    "geom:bbox":"121.539066,25.041496,121.539066,25.041496",
     "geom:latitude":25.041496,
     "geom:longitude":121.539066,
-    "iso:country":"",
+    "iso:country":"TW",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "Campus Cafe"
     ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
+        "1158782439",
         102551541,
         85923925,
         102191569,
@@ -23,9 +28,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{},
-    "wof:country":"",
+    "wof:country":"TW",
     "wof:created":1500640245,
-    "wof:geomhash":"d9130ad2f6614b9774c8cb23437a8e36",
+    "wof:geomhash":"a13ffcbeff752ff531689b10bd02e816",
     "wof:hierarchy":[
         {
             "campus_id":102551541,
@@ -34,11 +39,11 @@
             "locality_id":102026641,
             "neighbourhood_id":85923925,
             "region_id":85679583,
-            "venue_id":1158782439
+            "venue_id":"1158782439"
         }
     ],
     "wof:id":1158782439,
-    "wof:lastmodified":1500640245,
+    "wof:lastmodified":1501038414,
     "wof:name":"Campus Cafe",
     "wof:parent_id":102551541,
     "wof:placetype":"venue",
@@ -53,5 +58,5 @@
     121.53906583786,
     25.041495924725
 ],
-  "geometry": {"coordinates":[121.53906583785999,25.041495924725],"type":"Point"}
+  "geometry": {"coordinates":[121.53906600000001,25.041496],"type":"Point"}
 }

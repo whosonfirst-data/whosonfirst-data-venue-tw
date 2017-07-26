@@ -4,16 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"121.547286111,25.0415972222,121.547286111,25.0415972222",
+    "geom:area":0,
+    "geom:bbox":"121.547286,25.041597,121.547286,25.041597",
     "geom:latitude":25.041597,
     "geom:longitude":121.547286,
-    "iso:country":"",
+    "iso:country":"TW",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "CraftHouse"
     ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
+        "1158782441",
         102551541,
         85923925,
         102191569,
@@ -23,9 +28,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{},
-    "wof:country":"",
+    "wof:country":"TW",
     "wof:created":1500640260,
-    "wof:geomhash":"e657749eef437150231e6f800048bb9b",
+    "wof:geomhash":"4d8a60c891d298337fc97e599b93e1ca",
     "wof:hierarchy":[
         {
             "campus_id":102551541,
@@ -34,11 +39,11 @@
             "locality_id":102026641,
             "neighbourhood_id":85923925,
             "region_id":85679583,
-            "venue_id":1158782441
+            "venue_id":"1158782441"
         }
     ],
     "wof:id":1158782441,
-    "wof:lastmodified":1500640260,
+    "wof:lastmodified":1501038438,
     "wof:name":"CraftHouse",
     "wof:parent_id":102551541,
     "wof:placetype":"venue",
@@ -56,5 +61,5 @@
     121.54728611111,
     25.041597222222
 ],
-  "geometry": {"coordinates":[121.54728611111,25.041597222222],"type":"Point"}
+  "geometry": {"coordinates":[121.547286,25.041597],"type":"Point"}
 }
