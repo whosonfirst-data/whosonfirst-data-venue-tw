@@ -1,0 +1,58 @@
+{
+  "id": 1158785131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.503188889,25.1376888889,121.503188889,25.1376888889",
+    "geom:latitude":25.137689,
+    "geom:longitude":121.503189,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:hours":{},
+    "name:eng_x_preferred":[
+        "Louisa Coffee"
+    ],
+    "wof:belongsto":[
+        85923627,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TW",
+    "wof:created":1501153531,
+    "wof:geomhash":"9b56c231c12bbc351d8323377d246ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923627,
+            "region_id":85679583,
+            "venue_id":1158785131
+        }
+    ],
+    "wof:id":1158785131,
+    "wof:lastmodified":1501153531,
+    "wof:name":"Louisa Coffee",
+    "wof:parent_id":85923627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.50318888889,
+    25.137688888889,
+    121.50318888889,
+    25.137688888889
+],
+  "geometry": {"coordinates":[121.50318888888999,25.137688888889],"type":"Point"}
+}
