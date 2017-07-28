@@ -1,0 +1,65 @@
+{
+  "id": 1158785347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.540031,25.061144,121.540031,25.061144",
+    "geom:latitude":25.061144,
+    "geom:longitude":121.540031,
+    "iso:country":"TW",
+    "mz:categories":[],
+    "mz:hierarchy_label":1,
+    "mz:hours":{},
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lab by Dimension Plus"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85923073,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TW",
+    "wof:created":1501218346,
+    "wof:geomhash":"8a6dca3b550bca937888f9989e5fb372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923073,
+            "region_id":85679583,
+            "venue_id":1158785347
+        }
+    ],
+    "wof:id":1158785347,
+    "wof:lastmodified":1501218471,
+    "wof:name":"Lab by Dimension Plus",
+    "wof:parent_id":85923073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        "1158783295"
+    ],
+    "wof:tags":[
+        "hacker space"
+    ]
+},
+  "bbox": [
+    121.540031,
+    25.061144,
+    121.540031,
+    25.061144
+],
+  "geometry": {"coordinates":[121.540031,25.061144],"type":"Point"}
+}

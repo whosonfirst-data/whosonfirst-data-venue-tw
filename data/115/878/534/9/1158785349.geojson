@@ -1,0 +1,58 @@
+{
+  "id": 1158785349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.568611111,25.032225,121.568611111,25.032225",
+    "geom:latitude":25.032225,
+    "geom:longitude":121.568611,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:hours":{},
+    "name:eng_x_preferred":[
+        "N.Y. Bagels Cafe"
+    ],
+    "wof:belongsto":[
+        85923865,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TW",
+    "wof:created":1501218376,
+    "wof:geomhash":"fb02e6bc26125486c81a02f74f1e3f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923865,
+            "region_id":85679583,
+            "venue_id":1158785349
+        }
+    ],
+    "wof:id":1158785349,
+    "wof:lastmodified":1501218376,
+    "wof:name":"N.Y. Bagels Cafe",
+    "wof:parent_id":85923865,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56861111111,
+    25.032225,
+    121.56861111111,
+    25.032225
+],
+  "geometry": {"coordinates":[121.56861111111,25.032225],"type":"Point"}
+}
