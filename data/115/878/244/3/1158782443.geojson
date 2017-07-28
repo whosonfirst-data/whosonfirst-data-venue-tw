@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Sun Yat-sen Memorial Hall"
     ],
+    "name:zho_x_preferred":[
+        "\u570b\u7236\u7d00\u5ff5\u9928"
+    ],
     "src:geom":"mapzen",
     "wof:belongsto":[
         "1158782443",
