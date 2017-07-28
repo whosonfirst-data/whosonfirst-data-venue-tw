@@ -17,6 +17,9 @@
     "name:eng_x_preferred":[
         "Bamboo Curtain Studio"
     ],
+    "name:zho_x_preferred":[
+        "\u7af9\u570d\u5de5\u4f5c\u5ba4"
+    ],
     "src:geom":"mapzen",
     "wof:belongsto":[
         "1142028949",
