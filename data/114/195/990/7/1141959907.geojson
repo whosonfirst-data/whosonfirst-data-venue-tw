@@ -4,16 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"121.570715904,25.0273908986,121.570715904,25.0273908986",
+    "geom:area":0,
+    "geom:bbox":"121.570716,25.027391,121.570716,25.027391",
     "geom:latitude":25.027391,
     "geom:longitude":121.570716,
-    "iso:country":"",
+    "iso:country":"TW",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "Xiangshan Trail"
     ],
+    "name:zho_x_preferred":[
+        "\u8c61\u5c71"
+    ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
+        "1141959907",
         85923811,
         102191569,
         85632403,
@@ -22,9 +30,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{},
-    "wof:country":"",
+    "wof:country":"TW",
     "wof:created":1499827243,
-    "wof:geomhash":"5c95656fcf485d4da5057596258baef6",
+    "wof:geomhash":"75b6a7a6c671ddfba634d5ecfb345529",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -32,11 +40,11 @@
             "locality_id":102026641,
             "neighbourhood_id":85923811,
             "region_id":85679583,
-            "venue_id":1141959907
+            "venue_id":"1141959907"
         }
     ],
     "wof:id":1141959907,
-    "wof:lastmodified":1499827243,
+    "wof:lastmodified":1501579956,
     "wof:name":"Xiangshan Trail",
     "wof:parent_id":85923811,
     "wof:placetype":"venue",
@@ -54,5 +62,5 @@
     121.57071590424,
     25.02739089863
 ],
-  "geometry": {"coordinates":[121.57071590424,25.02739089863],"type":"Point"}
+  "geometry": {"coordinates":[121.570716,25.027391],"type":"Point"}
 }
