@@ -1,0 +1,56 @@
+{
+  "id": 1158791909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.530494444,25.0301305556,121.530494444,25.0301305556",
+    "geom:latitude":25.030131,
+    "geom:longitude":121.530494,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Libero Coffee & Bar"
+    ],
+    "wof:belongsto":[
+        85922949,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:country":"TW",
+    "wof:created":1502319903,
+    "wof:geomhash":"c33e59309e17a680996d90fa0c48ea84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85922949,
+            "region_id":85679583,
+            "venue_id":1158791909
+        }
+    ],
+    "wof:id":1158791909,
+    "wof:lastmodified":1502319903,
+    "wof:name":"Libero Coffee & Bar",
+    "wof:parent_id":85922949,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53049444444,
+    25.030130555556,
+    121.53049444444,
+    25.030130555556
+],
+  "geometry": {"coordinates":[121.53049444444,25.030130555556],"type":"Point"}
+}
